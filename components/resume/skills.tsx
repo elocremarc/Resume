@@ -25,13 +25,12 @@ export default function Skills() {
             boxShadow="xl"
             p="4"
           >
-            JavaScript, ES6, React, Next.JS, Python, Ethers.js, Web3.js,
-            Solidity, ERC-20/721/1155, Hardhat, Truffle, Scafold ETH, ChakraUI,
-            Bootstrap, jQuery, PHP, CSS, HTML, Linux, Bash, Raspberry Pi,
-            Arduino, Film, Cinematography, Content Marketing, Video Marketing,
-            Manufacturing Engineering, 3D Modeling, CAD/CAM, IoT, Electronics,
-            Robotics, Product Development, Prototyping, Lean Manufacturing,
-            GD&T, Drafting, Machining, CNC, CNC Programming, 3D Printing.
+            Typescript, JavaScript, Solidity, React, Node.js, ES6, Next.js,
+            Python, Ethers.js, Web3.js, ERC-20/721/1155, Hardhat, ChakraUI, MUI,
+            Bootstrap, CSS, HTML, Linux, Bash, Raspberry Pi, Arduino,
+            Videography, Video Marketing, Manufacturing Engineering, 3D
+            Modeling, CAD/CAM, IoT, Electronics, Robotics, Product Development,
+            Lean Manufacturing, CNC Programming, 3D Printing.
           </Container>
         </Center>
       </Box>
