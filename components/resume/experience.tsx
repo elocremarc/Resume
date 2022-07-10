@@ -42,8 +42,8 @@ export default function Experience() {
           boxShadow="xl"
           p={4}
         >
-          <Text fontWeight="bold"> Polyform US, Manufacturing </Text>
-          <Text>Engineer: March 2015 – Dec 2017</Text>
+          <Text fontWeight="bold"> Polyform US, Manufacturing Engineer</Text>
+          <Text> March 2015 – Dec 2017</Text>
           <Container>
             Created complex kinematic assemblies of rotomolding machines.
             Designed a new production line that included oversight for the

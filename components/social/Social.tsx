@@ -6,22 +6,22 @@ import { Box, Grid } from "@chakra-ui/layout";
 export default function Social() {
   return (
     <>
-      <Grid templateColumns="repeat(3, 1fr)" gap={6}>
+      <Grid templateColumns="repeat(2, 1fr)" gap={6}>
         <Box>
-          <a href="https://github.com/elocremarc">
+          <a href="https://github.com/elocremarc" target="_blank">
             <Icon boxSize={["4", "6"]} as={FaGithub} />
           </a>
         </Box>
         <Box>
-          <a href="https://twitter.com/Elocremarc">
+          <a href="https://twitter.com/Elocremarc" target="_blank">
             <Icon boxSize={["4", "6"]} as={FaTwitter} />
           </a>
         </Box>
-        <Box as="button">
+        {/* <Box as="button">
           <a href="https://www.instagram.com/techwithcole/">
             <Icon boxSize={["4", "6"]} as={FaInstagram} />
           </a>
-        </Box>
+        </Box> */}
       </Grid>
     </>
   );

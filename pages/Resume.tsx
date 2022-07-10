@@ -9,6 +9,8 @@ export default function Resume() {
   return (
     <Box>
       <Box height="50px" />
+
+      <Projects />
       <Center>
         <Grid
           templateColumns={[
@@ -24,8 +26,6 @@ export default function Resume() {
           </Box>
         </Grid>
       </Center>
-
-      <Projects />
     </Box>
   );
 }
